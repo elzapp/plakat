@@ -6,7 +6,7 @@ Desktop publishing med Inkscape og Scribus
 med L. Cecilie Wian
 
  * [Inkscape](http://inkscape.org/) er et vektorbasert tegneprogram (GPLv2) til Linux, Windows og Mac OS 10.5+
- * [Scribus](http://www.scribus.net/canvas/Scribus) er et sidebrekkingsprogram til Linux, Windows og Mac OS 10.5+
+ * [Scribus](http://www.scribus.net/canvas/Scribus) er et sidebrekkingsprogram tilgjengelig på en rekke plattformer
 
 
 ### Tid og sted ###
