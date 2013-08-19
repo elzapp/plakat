@@ -18,7 +18,7 @@ Torsdag 29. august 2013 kl. 19:00 - 21:00
 
 L. Cecilie Wian
 ------------------------------------------
-
+http://no.linkedin.com/in/lcwian
 
 
 Vi legger som tidligere opp til at den formelle, disiplinerte 
