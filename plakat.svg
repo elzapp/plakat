@@ -14,8 +14,8 @@
    height="1488.189"
    id="svg6924"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="plakat-ganeti.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="plakat.svg">
   <defs
      id="defs6926">
     <radialGradient
@@ -526,17 +526,6 @@
          stdDeviation="1.0367578"
          id="feGaussianBlur9103" />
     </filter>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.751938,0,7.193799)"
-       r="18.428572"
-       fy="29"
-       fx="26"
-       cy="29"
-       cx="26"
-       id="radialGradient2557"
-       xlink:href="#linearGradient2551"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient2551"
        inkscape:collect="always">
@@ -615,15 +604,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="353.85698"
-     inkscape:cy="374.10302"
+     inkscape:cx="356.68541"
+     inkscape:cy="371.27459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata6929">
@@ -1903,83 +1892,27 @@
          x="106.68153"
          y="435.07379"
          id="tspan17311"
-         style="font-size:50.72708511px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans">Linux og sånn</tspan><tspan
+         style="font-size:50.72708511px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans">Desktop publishing </tspan><tspan
          sodipodi:role="line"
          x="106.68153"
-         y="461.55679"
+         y="486.81543"
+         style="font-size:50.72708511px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans"
+         id="tspan3545">med Inkscape og Scribus </tspan><tspan
+         sodipodi:role="line"
+         x="106.68153"
+         y="513.2984"
          style="font-size:22.5453701px;font-style:italic;line-height:88.99999857%;-inkscape-font-specification:Sans Italic"
          id="tspan19035">ved L. Cecilie Wian</tspan><tspan
          sodipodi:role="line"
          x="106.68153"
-         y="481.62216"
+         y="533.36383"
          style="font-size:33.81805801px;font-style:normal;line-height:88.99999857%;-inkscape-font-specification:Sans"
          id="tspan17323" /><tspan
          sodipodi:role="line"
          x="106.68153"
-         y="504.72925"
+         y="556.14832"
          style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3361">Linux, <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-   id="tspan3417">Ubuntu</tspan>, SuSE, RedHat. <tspan
-   style="font-style:italic"
-   id="tspan3419">Open Source</tspan> og <tspan
-   style="font-style:italic;-inkscape-font-specification:Sans Italic"
-   id="tspan3423">Fri programvare</tspan>. </tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="528.77667"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3379">Hva er det? Hvordan henger det sammen? </tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="552.25208"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3381">Hva er community, og hva gjør det?</tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="575.72742"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3365" /><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="599.20282"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3367">L. Cecilie Wian gir en nybegynnerinnføring i verdenen rundt </tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="622.67816"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3389">linux, hva består den av, hvordan fungerer den, hvem er det </tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="646.1535"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3369">som lager dette.</tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="669.62891"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3395" /><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="693.10425"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3399">Foredraget er rettet mot for nysgjerrige og nybegynnere, men </tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="716.57965"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3371">også erfarne brukere som vil vite mer om organiseringen og </tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="740.05499"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3373">omgivelsene rundt Fri og Open programvare vil ha glede av dette.</tspan><tspan
-         sodipodi:role="line"
-         x="106.68153"
-         y="763.5304"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3375">Dette er anledningen til å bli bedre kjent med verden rundt Linux. </tspan></text>
+         id="tspan3375">Lorem ipsum</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot17413"
@@ -2130,7 +2063,7 @@
                  id="tspan18424"
                  x="-246.43105"
                  y="796.42114"
-                 style="font-size:72px">30</tspan></text>
+                 style="font-size:72px">29</tspan></text>
             <text
                xml:space="preserve"
                style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:101.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2289,61 +2222,7 @@
        y="432.54532"
        x="759.74854"
        id="image3444"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0CAYAAADL1t+KAAAABHNCSVQICAgIfAhkiAAAC5tJREFU
-eJzt3Utu3EASQEHWoO9/Zc5WbRgGxsoepp4jdt4QWZ/WA+EFz33f9wUA/Gj/eXoAAOD7BB0AAl5f
-/3HOeWoOPmzL/6xsuWMT+zGxltIcJe4pP8Gv98MbOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAE
-CDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAEvKYf+OsH1/m+c87TI4yZuB8T+zHx
-jC1rKdlyLhO2zDGhtJYtPvHb94YOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIO
-AAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGvpwf4nU98+P0p930/PcKYLeeyZU/tx7yJtWw5F96V
-zmXrb84bOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAE
-CDoABAg6AAQIOgAEvJ4egH/Lfd9Pj3Bd13Wdc779DGuZZy3vtqyFn8EbOgAECDoABAg6AAQIOgAE
-CDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAEvJ4egJ/jvu9v
-P+Ocs2KOLbbsx8QcE0prgf83b+gAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgA
-ECDoABAg6AAQIOgAECDoABAg6AAQIOgAEPB6eoDfue/76RH4kNLZnnO+/Ywt+zExx8R+TNiyp1v2
-Y4st51LmDR0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0A
-AgQdAAIEHQACBB0AAl7TDzznTD+SJSbO9r5vcwzbsh9b2I95W+46f+YNHQACBB0AAgQdAAIEHQAC
-BB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACzn3f99ND8O84
-5zw9wnVd17Xl2k/sR2ktW2zZU/hfeEMHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeA
-AEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgIDX0wN8yjnn6RGu67qu+76//YzSWiaeMaG0pyX2
-gz/xu/0zb+gAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgA
-ECDoABAg6AAQIOgAEPCafmDpA/SltUyY2I8ta5mwZS2le1paS8mWc5mw5Z5+4o55QweAAEEHgABB
-B4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAgNfT
-A/xO+QP0f2NiLbzbcrZbbPnNTbCWd1v+Fm7Z0wlb/354QweAAEEHgABBB4AAQQeAAEEHgABBB4AA
-QQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAgNf0Ayc+/H7OGZjk+7bMUdrT
-LSb2Y8u5lObg3ZZz8fdj3ifO1hs6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6
-AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAS8vv7jEx9cf8rEHBP7MaF0LhO27MeW+zFhy/3Ycral
-+7FlDnv67hO/OW/oABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgA
-ECDoABAg6AAQIOgAECDoABDw+vqPT3xw/Seb2I9zjjmG55iwZY4tv7kt96Nky35sOVtzfH4Ob+gA
-ECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQ
-IOgAEPD6+o8tH36feEbJxLlsseVst9z1LXNsWcsWpbVsseWObZnjE7yhA0CAoANAgKADQICgA0CA
-oANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0DA6+kBNpv4iP19
-3wOTdNhT/hUT93Ti98K7LX+DPnG23tABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEg
-QNABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIOD19R8TH22fsOUD9KX92GLLnm6xZT+2/OZKd30L
-5/Juy2/uE7yhA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICg
-A0CAoANAgKADQICgA0DAub987X3iI/ZbPh5fWsuEif2YMLGnW9ayhXv6rrQfE7bsqTk+zxs6AAQI
-OgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6
-AAS8ph+45ePxWz9A/ze27OnEHFvWssXEfmxhLe+23NMtc2yxZT8+cce8oQNAgKADQICgA0CAoANA
-gKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAwOvpAX5n4sPv
-E379ePzf+MRH7H+yLXu6xZazLd3TLfdjyxwl9vTPvKEDQICgA0CAoANAgKADQICgA0CAoANAgKAD
-QICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQMDr6QF+577vp0dY5Zzz9AjXdc2c
-y5a1lEzs6ZbfnPvBn/gb9Gfe0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEg
-QNABIEDQASBA0AEgQNABIEDQASBA0AEg4NwTX4znn3DOeXqEMVuu/ZY9ndiP0lomTOzHlrVM2HI/
-Jmw9F2/oABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg
-6AAQIOgAECDoABDw+vqP0gfoeXff99MjjJlYy8Rd37KnW/ZjQmktW7jr78r3wxs6AAQIOgAECDoA
-BAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAS8ph84
-8QF63p1znh7huq6Zs51Yy8Qztqxlgv14V1rLhNLf5NJd/8S5eEMHgABBB4AAQQeAAEEHgABBB4AA
-QQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgIDX0wP8zsTH47f4xEfs
-nzJxLlv2wx17V9qPEufybsvfjy2/uV/n8IYOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGCDgAB
-gg4AAYIOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGvpwfg33LOeXqE67qu677vp0e4rmtmP7bs
-aUnpfkysZcscE7b8Xj6xH97QASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA
-0AEgQNABIEDQASBA0AEgQNABIEDQASDg9fQA/Bz3fT89wphzztMjjJk4l4n92DLHhNJdn7DlbCfm
-2LKWT+yHN3QACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQA
-CBB0AAgQdAAIEHQACHg9PcDvTHyAHn6Cibt+zhmY5Psm5ij99recC++23NNP3A9v6AAQIOgAECDo
-ABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQcO4v
-X2r/xAfX2eHLMf94W+6pPX23ZT9K92PLWkq23NNP8IYOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIO
-AAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAHnLn/tHQD+Ed7QASBA0AEgQNAB
-IOC/QNE7D/UTuKUAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0CAYAAADL1t+KAAAABHNCSVQICAgIfAhkiAAAC5tJREFU eJzt3Utu3EASQEHWoO9/Zc5WbRgGxsoepp4jdt4QWZ/WA+EFz33f9wUA/Gj/eXoAAOD7BB0AAl5f /3HOeWoOPmzL/6xsuWMT+zGxltIcJe4pP8Gv98MbOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAE CDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAEvKYf+OsH1/m+c87TI4yZuB8T+zHx jC1rKdlyLhO2zDGhtJYtPvHb94YOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIO AAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGvpwf4nU98+P0p930/PcKYLeeyZU/tx7yJtWw5F96V zmXrb84bOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAE CDoABAg6AAQIOgAEvJ4egH/Lfd9Pj3Bd13Wdc779DGuZZy3vtqyFn8EbOgAECDoABAg6AAQIOgAE CDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAEvJ4egJ/jvu9v P+Ocs2KOLbbsx8QcE0prgf83b+gAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgA ECDoABAg6AAQIOgAECDoABAg6AAQIOgAEPB6eoDfue/76RH4kNLZnnO+/Ywt+zExx8R+TNiyp1v2 Y4st51LmDR0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0A AgQdAAIEHQACBB0AAl7TDzznTD+SJSbO9r5vcwzbsh9b2I95W+46f+YNHQACBB0AAgQdAAIEHQAC BB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACzn3f99ND8O84 5zw9wnVd17Xl2k/sR2ktW2zZU/hfeEMHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeA AEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgIDX0wN8yjnn6RGu67qu+76//YzSWiaeMaG0pyX2 gz/xu/0zb+gAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgA ECDoABAg6AAQIOgAEPCafmDpA/SltUyY2I8ta5mwZS2le1paS8mWc5mw5Z5+4o55QweAAEEHgABB B4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAgNfT A/xO+QP0f2NiLbzbcrZbbPnNTbCWd1v+Fm7Z0wlb/354QweAAEEHgABBB4AAQQeAAEEHgABBB4AA QQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAgNf0Ayc+/H7OGZjk+7bMUdrT LSb2Y8u5lObg3ZZz8fdj3ifO1hs6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6 AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAS8vv7jEx9cf8rEHBP7MaF0LhO27MeW+zFhy/3Ycral +7FlDnv67hO/OW/oABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgA ECDoABAg6AAQIOgAECDoABDw+vqPT3xw/Seb2I9zjjmG55iwZY4tv7kt96Nky35sOVtzfH4Ob+gA ECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQ IOgAEPD6+o8tH36feEbJxLlsseVst9z1LXNsWcsWpbVsseWObZnjE7yhA0CAoANAgKADQICgA0CA oANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0DA6+kBNpv4iP19 3wOTdNhT/hUT93Ti98K7LX+DPnG23tABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEg QNABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIOD19R8TH22fsOUD9KX92GLLnm6xZT+2/OZKd30L 5/Juy2/uE7yhA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICg A0CAoANAgKADQICgA0DAub987X3iI/ZbPh5fWsuEif2YMLGnW9ayhXv6rrQfE7bsqTk+zxs6AAQI OgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6 AAS8ph+45ePxWz9A/ze27OnEHFvWssXEfmxhLe+23NMtc2yxZT8+cce8oQNAgKADQICgA0CAoANA gKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAwOvpAX5n4sPv E379ePzf+MRH7H+yLXu6xZazLd3TLfdjyxwl9vTPvKEDQICgA0CAoANAgKADQICgA0CAoANAgKAD QICgA0CAoANAgKADQICgA0CAoANAgKADQICgA0CAoANAgKADQMDr6QF+577vp0dY5Zzz9AjXdc2c y5a1lEzs6ZbfnPvBn/gb9Gfe0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEg QNABIEDQASBA0AEgQNABIEDQASBA0AEg4NwTX4znn3DOeXqEMVuu/ZY9ndiP0lomTOzHlrVM2HI/ Jmw9F2/oABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg 6AAQIOgAECDoABDw+vqP0gfoeXff99MjjJlYy8Rd37KnW/ZjQmktW7jr78r3wxs6AAQIOgAECDoA BAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAS8ph84 8QF63p1znh7huq6Zs51Yy8Qztqxlgv14V1rLhNLf5NJd/8S5eEMHgABBB4AAQQeAAEEHgABBB4AA QQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgABBB4AAQQeAAEEHgIDX0wP8zsTH47f4xEfs nzJxLlv2wx17V9qPEufybsvfjy2/uV/n8IYOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGCDgAB gg4AAYIOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGvpwfg33LOeXqE67qu677vp0e4rmtmP7bs aUnpfkysZcscE7b8Xj6xH97QASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA0AEgQNABIEDQASBA 0AEgQNABIEDQASBA0AEgQNABIEDQASDg9fQA/Bz3fT89wphzztMjjJk4l4n92DLHhNJdn7DlbCfm 2LKWT+yHN3QACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQACBB0AAgQdAAIEHQA CBB0AAgQdAAIEHQACHg9PcDvTHyAHn6Cibt+zhmY5Psm5ij99recC++23NNP3A9v6AAQIOgAECDo ABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQIOgAECDoABAg6AAQcO4v X2r/xAfX2eHLMf94W+6pPX23ZT9K92PLWkq23NNP8IYOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIO AAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAGCDgABgg4AAYIOAAHnLn/tHQD+Ed7QASBA0AEgQNAB IOC/QNE7D/UTuKUAAAAASUVORK5CYII= "
        height="173.31667"
        width="173.31667" />
   </g>
